@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition'
+define service ZMAKS_SD_XL_USER {
+  expose ZMAKS_C_XL_USER;
+  expose ZMAKS_C_XL_DATA;
+}

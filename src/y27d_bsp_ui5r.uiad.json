@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Upload the Excel"
+  },
+  "ui5AppDetails": {
+    "appId": "y27d"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_CE72C42E087ED1C1DB9A04D9E427EEC23BDB1847_TM",
+    "semanticObject": "Y27d_seman",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_CE72C42E087ED1C1DB9A04D9E427EEC23BDB1847_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Upload the Excel"
+      }
+    }
+  ]
+}
